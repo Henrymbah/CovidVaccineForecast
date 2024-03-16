@@ -12,6 +12,6 @@ The second dataset is to large to be uploaded.
 All work was done with python.
 
 # Contact
-If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me :)
+If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me
 
 Email: ekenembah1@gmail.com
